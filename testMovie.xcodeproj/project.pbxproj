@@ -12,6 +12,39 @@
 		3FB3C874204D9FE400E2A98C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C872204D9FE400E2A98C /* Main.storyboard */; };
 		3FB3C876204D9FE400E2A98C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C875204D9FE400E2A98C /* Assets.xcassets */; };
 		3FB3C879204D9FE400E2A98C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C877204D9FE400E2A98C /* LaunchScreen.storyboard */; };
+		3FB3C884204DA11D00E2A98C /* AFNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FB3C886204DA11D00E2A98C /* AFNetworking.framework */; };
+		3FB3C885204DA11D00E2A98C /* MBProgressHUD.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FB3C887204DA11D00E2A98C /* MBProgressHUD.framework */; };
+		3FB3C88A204DA2B500E2A98C /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB3C889204DA2B500E2A98C /* MovieCell.swift */; };
+		3FB3C88C204DA39700E2A98C /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB3C88B204DA39700E2A98C /* DetailViewController.swift */; };
+		3FB3C890204DA81B00E2A98C /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C88F204DA81A00E2A98C /* background.png */; };
+		3FB3C8AC204E630700E2A98C /* Icon-App-20x20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C892204E62FF00E2A98C /* Icon-App-20x20@3x.png */; };
+		3FB3C8AD204E630700E2A98C /* Icon-App-40x40@2x-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C893204E62FF00E2A98C /* Icon-App-40x40@2x-1.png */; };
+		3FB3C8AE204E630700E2A98C /* Icon-App-40x40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C894204E630000E2A98C /* Icon-App-40x40@2x.png */; };
+		3FB3C8AF204E630700E2A98C /* Icon-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C895204E630000E2A98C /* Icon-29@3x.png */; };
+		3FB3C8B0204E630700E2A98C /* Icon-App-76x76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C896204E630000E2A98C /* Icon-App-76x76@2x.png */; };
+		3FB3C8B1204E630700E2A98C /* Icon-App-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C897204E630100E2A98C /* Icon-App-29x29@2x.png */; };
+		3FB3C8B2204E630700E2A98C /* Icon-App-83.5x83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C898204E630100E2A98C /* Icon-App-83.5x83.5@2x.png */; };
+		3FB3C8B3204E630700E2A98C /* Icon-App-20x20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C899204E630100E2A98C /* Icon-App-20x20@2x.png */; };
+		3FB3C8B4204E630700E2A98C /* Icon-App-60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C89A204E630200E2A98C /* Icon-App-60x60@3x.png */; };
+		3FB3C8B5204E630700E2A98C /* Icon-App-29x29@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C89B204E630200E2A98C /* Icon-App-29x29@1x.png */; };
+		3FB3C8B6204E630700E2A98C /* Icon-App-20x20@2x-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C89C204E630200E2A98C /* Icon-App-20x20@2x-1.png */; };
+		3FB3C8B7204E630700E2A98C /* Icon-App-60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C89D204E630200E2A98C /* Icon-App-60x60@2x.png */; };
+		3FB3C8B8204E630700E2A98C /* Icon-86@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C89E204E630300E2A98C /* Icon-86@2x.png */; };
+		3FB3C8B9204E630700E2A98C /* Icon-App-76x76@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C89F204E630300E2A98C /* Icon-App-76x76@1x.png */; };
+		3FB3C8BA204E630700E2A98C /* ItunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C8A0204E630300E2A98C /* ItunesArtwork@2x.png */; };
+		3FB3C8BB204E630700E2A98C /* Icon-98@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C8A1204E630300E2A98C /* Icon-98@2x.png */; };
+		3FB3C8BC204E630700E2A98C /* Icon-App-29x29@2x-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C8A2204E630400E2A98C /* Icon-App-29x29@2x-1.png */; };
+		3FB3C8BD204E630700E2A98C /* Icon-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C8A3204E630400E2A98C /* Icon-29@2x.png */; };
+		3FB3C8BE204E630700E2A98C /* Icon-App-29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C8A4204E630400E2A98C /* Icon-App-29x29@3x.png */; };
+		3FB3C8BF204E630700E2A98C /* Icon-App-20x20@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C8A5204E630500E2A98C /* Icon-App-20x20@1x.png */; };
+		3FB3C8C0204E630700E2A98C /* Icon-27.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C8A6204E630500E2A98C /* Icon-27.5@2x.png */; };
+		3FB3C8C1204E630700E2A98C /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C8A7204E630500E2A98C /* Icon-40@2x.png */; };
+		3FB3C8C2204E630700E2A98C /* Icon-App-40x40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C8A8204E630500E2A98C /* Icon-App-40x40@3x.png */; };
+		3FB3C8C3204E630700E2A98C /* Icon-App-40x40@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C8A9204E630600E2A98C /* Icon-App-40x40@1x.png */; };
+		3FB3C8C4204E630700E2A98C /* Icon-24@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C8AA204E630600E2A98C /* Icon-24@2x.png */; };
+		3FB3C8C5204E630700E2A98C /* Icon-44@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C8AB204E630600E2A98C /* Icon-44@2x.png */; };
+		3FB3C8C7204E639300E2A98C /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FB3C8C6204E639200E2A98C /* play.png */; };
+		D4A1F56283478F1F27804F39 /* Pods_testMovie.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68782EC34EA8855AD47CD339 /* Pods_testMovie.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +55,43 @@
 		3FB3C875204D9FE400E2A98C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FB3C878204D9FE400E2A98C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3FB3C87A204D9FE400E2A98C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FB3C882204DA0C100E2A98C /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FB3C883204DA0C100E2A98C /* MBProgressHUD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MBProgressHUD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FB3C886204DA11D00E2A98C /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FB3C887204DA11D00E2A98C /* MBProgressHUD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MBProgressHUD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FB3C889204DA2B500E2A98C /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		3FB3C88B204DA39700E2A98C /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		3FB3C88F204DA81A00E2A98C /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		3FB3C892204E62FF00E2A98C /* Icon-App-20x20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@3x.png"; sourceTree = "<group>"; };
+		3FB3C893204E62FF00E2A98C /* Icon-App-40x40@2x-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@2x-1.png"; sourceTree = "<group>"; };
+		3FB3C894204E630000E2A98C /* Icon-App-40x40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@2x.png"; sourceTree = "<group>"; };
+		3FB3C895204E630000E2A98C /* Icon-29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29@3x.png"; sourceTree = "<group>"; };
+		3FB3C896204E630000E2A98C /* Icon-App-76x76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@2x.png"; sourceTree = "<group>"; };
+		3FB3C897204E630100E2A98C /* Icon-App-29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@2x.png"; sourceTree = "<group>"; };
+		3FB3C898204E630100E2A98C /* Icon-App-83.5x83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-83.5x83.5@2x.png"; sourceTree = "<group>"; };
+		3FB3C899204E630100E2A98C /* Icon-App-20x20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@2x.png"; sourceTree = "<group>"; };
+		3FB3C89A204E630200E2A98C /* Icon-App-60x60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@3x.png"; sourceTree = "<group>"; };
+		3FB3C89B204E630200E2A98C /* Icon-App-29x29@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@1x.png"; sourceTree = "<group>"; };
+		3FB3C89C204E630200E2A98C /* Icon-App-20x20@2x-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@2x-1.png"; sourceTree = "<group>"; };
+		3FB3C89D204E630200E2A98C /* Icon-App-60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@2x.png"; sourceTree = "<group>"; };
+		3FB3C89E204E630300E2A98C /* Icon-86@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-86@2x.png"; sourceTree = "<group>"; };
+		3FB3C89F204E630300E2A98C /* Icon-App-76x76@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@1x.png"; sourceTree = "<group>"; };
+		3FB3C8A0204E630300E2A98C /* ItunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ItunesArtwork@2x.png"; sourceTree = "<group>"; };
+		3FB3C8A1204E630300E2A98C /* Icon-98@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-98@2x.png"; sourceTree = "<group>"; };
+		3FB3C8A2204E630400E2A98C /* Icon-App-29x29@2x-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@2x-1.png"; sourceTree = "<group>"; };
+		3FB3C8A3204E630400E2A98C /* Icon-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29@2x.png"; sourceTree = "<group>"; };
+		3FB3C8A4204E630400E2A98C /* Icon-App-29x29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@3x.png"; sourceTree = "<group>"; };
+		3FB3C8A5204E630500E2A98C /* Icon-App-20x20@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@1x.png"; sourceTree = "<group>"; };
+		3FB3C8A6204E630500E2A98C /* Icon-27.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-27.5@2x.png"; sourceTree = "<group>"; };
+		3FB3C8A7204E630500E2A98C /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
+		3FB3C8A8204E630500E2A98C /* Icon-App-40x40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@3x.png"; sourceTree = "<group>"; };
+		3FB3C8A9204E630600E2A98C /* Icon-App-40x40@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@1x.png"; sourceTree = "<group>"; };
+		3FB3C8AA204E630600E2A98C /* Icon-24@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-24@2x.png"; sourceTree = "<group>"; };
+		3FB3C8AB204E630600E2A98C /* Icon-44@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-44@2x.png"; sourceTree = "<group>"; };
+		3FB3C8C6204E639200E2A98C /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		5D8AC884744F15548650296D /* Pods-testMovie.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testMovie.release.xcconfig"; path = "Pods/Target Support Files/Pods-testMovie/Pods-testMovie.release.xcconfig"; sourceTree = "<group>"; };
+		68782EC34EA8855AD47CD339 /* Pods_testMovie.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_testMovie.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA7BD38133C870A8E797EE8B /* Pods-testMovie.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testMovie.debug.xcconfig"; path = "Pods/Target Support Files/Pods-testMovie/Pods-testMovie.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +99,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FB3C884204DA11D00E2A98C /* AFNetworking.framework in Frameworks */,
+				3FB3C885204DA11D00E2A98C /* MBProgressHUD.framework in Frameworks */,
+				D4A1F56283478F1F27804F39 /* Pods_testMovie.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +113,8 @@
 			children = (
 				3FB3C86D204D9FE400E2A98C /* testMovie */,
 				3FB3C86C204D9FE400E2A98C /* Products */,
+				D044FBD1A17DC75C3CA9003F /* Pods */,
+				9BCE7BACC6C605854EEDE361 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,13 +130,96 @@
 			isa = PBXGroup;
 			children = (
 				3FB3C86E204D9FE400E2A98C /* AppDelegate.swift */,
-				3FB3C870204D9FE400E2A98C /* ViewController.swift */,
+				3FB3C891204DA81F00E2A98C /* images */,
+				3FB3C88E204DA3A500E2A98C /* controllers */,
+				3FB3C888204DA29E00E2A98C /* view */,
 				3FB3C872204D9FE400E2A98C /* Main.storyboard */,
 				3FB3C875204D9FE400E2A98C /* Assets.xcassets */,
+				3FB3C8C9204E63B000E2A98C /* Icons */,
 				3FB3C877204D9FE400E2A98C /* LaunchScreen.storyboard */,
 				3FB3C87A204D9FE400E2A98C /* Info.plist */,
 			);
 			path = testMovie;
+			sourceTree = "<group>";
+		};
+		3FB3C888204DA29E00E2A98C /* view */ = {
+			isa = PBXGroup;
+			children = (
+				3FB3C889204DA2B500E2A98C /* MovieCell.swift */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		3FB3C88E204DA3A500E2A98C /* controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3FB3C870204D9FE400E2A98C /* ViewController.swift */,
+				3FB3C88B204DA39700E2A98C /* DetailViewController.swift */,
+			);
+			name = controllers;
+			sourceTree = "<group>";
+		};
+		3FB3C891204DA81F00E2A98C /* images */ = {
+			isa = PBXGroup;
+			children = (
+				3FB3C88F204DA81A00E2A98C /* background.png */,
+				3FB3C8C6204E639200E2A98C /* play.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		3FB3C8C9204E63B000E2A98C /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				3FB3C8AA204E630600E2A98C /* Icon-24@2x.png */,
+				3FB3C8A6204E630500E2A98C /* Icon-27.5@2x.png */,
+				3FB3C8A3204E630400E2A98C /* Icon-29@2x.png */,
+				3FB3C895204E630000E2A98C /* Icon-29@3x.png */,
+				3FB3C8A7204E630500E2A98C /* Icon-40@2x.png */,
+				3FB3C8AB204E630600E2A98C /* Icon-44@2x.png */,
+				3FB3C89E204E630300E2A98C /* Icon-86@2x.png */,
+				3FB3C8A1204E630300E2A98C /* Icon-98@2x.png */,
+				3FB3C8A5204E630500E2A98C /* Icon-App-20x20@1x.png */,
+				3FB3C89C204E630200E2A98C /* Icon-App-20x20@2x-1.png */,
+				3FB3C899204E630100E2A98C /* Icon-App-20x20@2x.png */,
+				3FB3C892204E62FF00E2A98C /* Icon-App-20x20@3x.png */,
+				3FB3C89B204E630200E2A98C /* Icon-App-29x29@1x.png */,
+				3FB3C8A2204E630400E2A98C /* Icon-App-29x29@2x-1.png */,
+				3FB3C897204E630100E2A98C /* Icon-App-29x29@2x.png */,
+				3FB3C8A4204E630400E2A98C /* Icon-App-29x29@3x.png */,
+				3FB3C8A9204E630600E2A98C /* Icon-App-40x40@1x.png */,
+				3FB3C893204E62FF00E2A98C /* Icon-App-40x40@2x-1.png */,
+				3FB3C894204E630000E2A98C /* Icon-App-40x40@2x.png */,
+				3FB3C8A8204E630500E2A98C /* Icon-App-40x40@3x.png */,
+				3FB3C89D204E630200E2A98C /* Icon-App-60x60@2x.png */,
+				3FB3C89A204E630200E2A98C /* Icon-App-60x60@3x.png */,
+				3FB3C89F204E630300E2A98C /* Icon-App-76x76@1x.png */,
+				3FB3C896204E630000E2A98C /* Icon-App-76x76@2x.png */,
+				3FB3C898204E630100E2A98C /* Icon-App-83.5x83.5@2x.png */,
+				3FB3C8A0204E630300E2A98C /* ItunesArtwork@2x.png */,
+			);
+			name = Icons;
+			sourceTree = "<group>";
+		};
+		9BCE7BACC6C605854EEDE361 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3FB3C886204DA11D00E2A98C /* AFNetworking.framework */,
+				3FB3C887204DA11D00E2A98C /* MBProgressHUD.framework */,
+				3FB3C882204DA0C100E2A98C /* AFNetworking.framework */,
+				3FB3C883204DA0C100E2A98C /* MBProgressHUD.framework */,
+				68782EC34EA8855AD47CD339 /* Pods_testMovie.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D044FBD1A17DC75C3CA9003F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				AA7BD38133C870A8E797EE8B /* Pods-testMovie.debug.xcconfig */,
+				5D8AC884744F15548650296D /* Pods-testMovie.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +229,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3FB3C87D204D9FE400E2A98C /* Build configuration list for PBXNativeTarget "testMovie" */;
 			buildPhases = (
+				A84B0CB98860D55A0199F9AB /* [CP] Check Pods Manifest.lock */,
 				3FB3C867204D9FE400E2A98C /* Sources */,
 				3FB3C868204D9FE400E2A98C /* Frameworks */,
 				3FB3C869204D9FE400E2A98C /* Resources */,
+				528F46F671961FB85E5387D4 /* [CP] Embed Pods Frameworks */,
+				6D5D030013E479987CE67642 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -123,13 +284,97 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FB3C8B1204E630700E2A98C /* Icon-App-29x29@2x.png in Resources */,
+				3FB3C8AD204E630700E2A98C /* Icon-App-40x40@2x-1.png in Resources */,
+				3FB3C8B3204E630700E2A98C /* Icon-App-20x20@2x.png in Resources */,
 				3FB3C879204D9FE400E2A98C /* LaunchScreen.storyboard in Resources */,
+				3FB3C8B0204E630700E2A98C /* Icon-App-76x76@2x.png in Resources */,
+				3FB3C8C5204E630700E2A98C /* Icon-44@2x.png in Resources */,
+				3FB3C8BC204E630700E2A98C /* Icon-App-29x29@2x-1.png in Resources */,
+				3FB3C8C2204E630700E2A98C /* Icon-App-40x40@3x.png in Resources */,
+				3FB3C8BA204E630700E2A98C /* ItunesArtwork@2x.png in Resources */,
+				3FB3C890204DA81B00E2A98C /* background.png in Resources */,
+				3FB3C8C3204E630700E2A98C /* Icon-App-40x40@1x.png in Resources */,
+				3FB3C8B6204E630700E2A98C /* Icon-App-20x20@2x-1.png in Resources */,
+				3FB3C8C1204E630700E2A98C /* Icon-40@2x.png in Resources */,
+				3FB3C8B4204E630700E2A98C /* Icon-App-60x60@3x.png in Resources */,
+				3FB3C8B5204E630700E2A98C /* Icon-App-29x29@1x.png in Resources */,
+				3FB3C8C4204E630700E2A98C /* Icon-24@2x.png in Resources */,
+				3FB3C8AE204E630700E2A98C /* Icon-App-40x40@2x.png in Resources */,
+				3FB3C8BD204E630700E2A98C /* Icon-29@2x.png in Resources */,
+				3FB3C8B8204E630700E2A98C /* Icon-86@2x.png in Resources */,
+				3FB3C8B9204E630700E2A98C /* Icon-App-76x76@1x.png in Resources */,
+				3FB3C8C7204E639300E2A98C /* play.png in Resources */,
+				3FB3C8BE204E630700E2A98C /* Icon-App-29x29@3x.png in Resources */,
+				3FB3C8B7204E630700E2A98C /* Icon-App-60x60@2x.png in Resources */,
+				3FB3C8BF204E630700E2A98C /* Icon-App-20x20@1x.png in Resources */,
 				3FB3C876204D9FE400E2A98C /* Assets.xcassets in Resources */,
+				3FB3C8AF204E630700E2A98C /* Icon-29@3x.png in Resources */,
+				3FB3C8AC204E630700E2A98C /* Icon-App-20x20@3x.png in Resources */,
 				3FB3C874204D9FE400E2A98C /* Main.storyboard in Resources */,
+				3FB3C8BB204E630700E2A98C /* Icon-98@2x.png in Resources */,
+				3FB3C8B2204E630700E2A98C /* Icon-App-83.5x83.5@2x.png in Resources */,
+				3FB3C8C0204E630700E2A98C /* Icon-27.5@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		528F46F671961FB85E5387D4 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-testMovie/Pods-testMovie-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework",
+				"${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AFNetworking.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MBProgressHUD.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-testMovie/Pods-testMovie-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6D5D030013E479987CE67642 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-testMovie/Pods-testMovie-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A84B0CB98860D55A0199F9AB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-testMovie-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		3FB3C867204D9FE400E2A98C /* Sources */ = {
@@ -138,6 +383,8 @@
 			files = (
 				3FB3C871204D9FE400E2A98C /* ViewController.swift in Sources */,
 				3FB3C86F204D9FE400E2A98C /* AppDelegate.swift in Sources */,
+				3FB3C88A204DA2B500E2A98C /* MovieCell.swift in Sources */,
+				3FB3C88C204DA39700E2A98C /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +519,7 @@
 		};
 		3FB3C87E204D9FE400E2A98C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AA7BD38133C870A8E797EE8B /* Pods-testMovie.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -287,6 +535,7 @@
 		};
 		3FB3C87F204D9FE400E2A98C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5D8AC884744F15548650296D /* Pods-testMovie.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
